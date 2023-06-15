@@ -1,3 +1,17 @@
+LINK PARA MOSTRAR TODAS AS TAGS DO HTML E CSS.
 https://developer.mozilla.org/pt-BR/docs/Web/HTML/Global_attributes/class
 
-LINK PARA MOSTRAR TODAS AS TAGS DO HTML E CSS.
+
+LINK PARA MOSTRAR AS DFERENTES TAGS PARA O USO DE FLEXBOX
+alura.com.br/artigos/css-guia-do-flexbox?gclid=Cj0KCQjw7aqkBhDPARIsAKGa0oIC29ElNTeurv2fwSARsmR_LhYNxDXwggVkZzEW4CjVpEQgJ5h-CnIaAk5oEALw_wcB
+
+SOBRE A TAG <div>
+A tag <div> define uma divisão em um documento HTML e costuma ser usada como um contêiner para outros elementos, o que ajuda na estilização do bloco.
+
+SOBRE A TAG padding
+padding: 21.5px 0;
+SERVE PRA DAR UM ESPAÇAMENTO ENTRE O TEXTO E A BORDA VOCÊ DA 2 VALORES O PRIMEIRO VALOR É HORIZONTAL E O SEGUNDO É VERTICAL
+
+SOBRE A TAG border-radius
+border-radius: 16px;
+SERVE PARA ADICIONAR UM ARRENDODAMENTO DAS PONTAS
