@@ -21,3 +21,11 @@ TODA VEZ QUE HAVER UMA MUDANÇA NA POSIÇÃO DO FLEX-DIRECTION TODAS AS OUTRAS P
 
 SOBRE A TAG gap
 SERVE PARA DEFINIR OS ESPAÇOES ENTRE LINHAS E COLUNAS
+
+SOBRE A TAG justify-content
+A propriedade justify-content é usada para alinhar os elementos ao longo do eixo principal (main-axis), cuja direção (row ou column) é definida a partir da propriedade flex-direction.
+
+.tag qualquer:hover{
+    background-color: #272727;
+}
+A TAG HOVER SERVE PARA ESTILIZAR O BOTÃO DE UM LINK QUANDO PASSAR O MOUSE POR CIMA
