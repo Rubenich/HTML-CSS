@@ -17,7 +17,7 @@ body {
 }
 
 .apresentacao{
-    margin: 10%;
+    margin: 10% 15%;
     display: flex; /* O main vai ser display flex, por padrão ele coloca os elementos filho em uma row */
     /*Para mudar a posição que vai ficar o conteudo dentro da flexbox, é necessario usar o comando flex-direction*/
     align-items: center;
@@ -27,6 +27,9 @@ body {
 
 .apresentacao__conteudo{
     width: 615px;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
 }
 
 .apresentacao__conteudo__titulo{
@@ -41,7 +44,16 @@ body {
 
 .apresentacao__links{
     display: flex;
+    flex-direction: column;
     justify-content: space-between;
+    align-items: center;
+    gap: 32px;
+}
+
+.aperesentacao__links__subtitulo{
+    font-family: 'Krona One', sans-serif;
+    font-weight: 400;
+    font-size: 24px;
 }
 
 .apresentacao__links__link{
