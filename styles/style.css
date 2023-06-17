@@ -6,18 +6,30 @@
 
 body {
     /* VH = VIEWPORT HEIGHT */
-    height: 100vh;
     box-sizing: border-box; /*SERVE PARA QUE O CONTEUDO NÃO SAIA PARA FORA DO ELEMENTO PAI */
     background-color: black;
     color: white;
 }
 
-.titulo-destaque{
-    color: #22d4fd;
+.cabecalho{
+    padding: 2% 0% 0% 15%;
+}
+
+.cabecalho__menu{
+    display: flex;
+    gap: 80px;
+}
+
+.cabecalho__menu__link{
+    font-family: 'Montserrat', sans-serif ;
+    font-size: 24px;
+    font-weight: 600;
+    color:#22D4FD;
+    text-decoration: none;
 }
 
 .apresentacao{
-    margin: 10% 15%;
+    padding: 5% 15%;
     display: flex; /* O main vai ser display flex, por padrão ele coloca os elementos filho em uma row */
     /*Para mudar a posição que vai ficar o conteudo dentro da flexbox, é necessario usar o comando flex-direction*/
     align-items: center;
@@ -35,6 +47,10 @@ body {
 .apresentacao__conteudo__titulo{
     font-size: 36px;
     font-family: 'Krona One', sans-serif;
+}
+
+.titulo-destaque{
+    color: #22d4fd;
 }
 
 .apresentacao__conteudo__texto{
@@ -77,3 +93,12 @@ body {
 
 }
 
+.rodape{
+    color: #000;
+    background-color: #22D4FD;
+    padding: 24px;
+    text-align: center;
+    font-family: 'Montserrat' sans-serif;
+    font-size: 24px;
+    font-weight: ;
+}

@@ -5,6 +5,9 @@ https://developer.mozilla.org/pt-BR/docs/Web/HTML/Global_attributes/class
 LINK PARA MOSTRAR AS DFERENTES TAGS PARA O USO DE FLEXBOX
 alura.com.br/artigos/css-guia-do-flexbox?gclid=Cj0KCQjw7aqkBhDPARIsAKGa0oIC29ElNTeurv2fwSARsmR_LhYNxDXwggVkZzEW4CjVpEQgJ5h-CnIaAk5oEALw_wcB
 
+LINK PARA MOSTRAR OS CÓDIGOS
+https://www.w3schools.com/ 
+
 SOBRE A TAG <div>
 A tag <div> define uma divisão em um documento HTML e costuma ser usada como um contêiner para outros elementos, o que ajuda na estilização do bloco.
 
@@ -21,6 +24,32 @@ TODA VEZ QUE HAVER UMA MUDANÇA NA POSIÇÃO DO FLEX-DIRECTION TODAS AS OUTRAS P
 
 SOBRE A TAG gap
 SERVE PARA DEFINIR OS ESPAÇOES ENTRE LINHAS E COLUNAS
+
+SOBRE A TAG justify-content
+A propriedade justify-content é usada para alinhar os elementos ao longo do eixo principal (main-axis), cuja direção (row ou column) é definida a partir da propriedade flex-direction.
+
+.tag qualquer:hover{
+    background-color: #272727;
+}
+A TAG HOVER SERVE PARA ESTILIZAR O BOTÃO DE UM LINK QUANDO PASSAR O MOUSE POR CIMA
+
+MARGIN 
+É DA BORDA PARA FORA
+
+PADDING 
+É DA BORDA PARA DENTRO
+
+CTRL+K+C 
+PARA COMENTAR
+
+ATALHO PARA LINK
+link:css
+
+p*2
+Para criar várias tags <p>
+
+alt + click
+Para selecionar mais de 1 item e codar ao mesmo tempo
 
 SOBRE A TAG justify-content
 A propriedade justify-content é usada para alinhar os elementos ao longo do eixo principal (main-axis), cuja direção (row ou column) é definida a partir da propriedade flex-direction.
