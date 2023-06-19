@@ -58,3 +58,22 @@ A propriedade justify-content é usada para alinhar os elementos ao longo do eix
     background-color: #272727;
 }
 A TAG HOVER SERVE PARA ESTILIZAR O BOTÃO DE UM LINK QUANDO PASSAR O MOUSE POR CIMA
+
+COLOR HUNT
+https://colorhunt.co/
+
+UNIDADE DE MEDIDA REM 
+SERVE PARA QUE SUA PAGINA TROQUE O TAMANHO DA FONTA, QUANDO TROCADO PELA CONFIGURAÇÃO DO NAVEGADOR
+exemplo: font-size: 36px; font-size: 2.25rem; 
+PARA ACHAR O REM É NECESSARIO FAZER A DIVISÃO DO PX POR 16
+
+
+@media (max-width: 1200px){ 
+    .apresentacao{
+        flex-direction: column-reverse;
+    }
+PERMITE QUE QUANDO A LARGURA DA PAGINA ESTÁ MENOR QUE 1200PX É FEITA ALTERAÇÃO PARA ADAPTAR A PAGINA PARA UM SISTEMA MOBILE
+
+VERCEL
+SITE PARA SUBIR OS PROJETOS
+https://vercel.com/
